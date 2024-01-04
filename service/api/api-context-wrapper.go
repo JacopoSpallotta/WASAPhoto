@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gofrs/uuid"
-	"github.com/jorgeferrerhn/WASAPhoto/service/api/reqcontext"
+	"github.com/JacopoSpallotta/WASAPhoto/service/api/reqcontext"
 	"github.com/julienschmidt/httprouter"
 	"github.com/sirupsen/logrus"
 )
