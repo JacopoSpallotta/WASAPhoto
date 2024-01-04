@@ -40,7 +40,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/jorgeferrerhn/WASAPhoto/service/database"
+	"github.com/JacopoSpallotta/WASAPhoto/service/database"
 	"github.com/julienschmidt/httprouter"
 	"github.com/sirupsen/logrus"
 )
